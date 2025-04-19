@@ -1,7 +1,5 @@
 # Medical Cost Analysis - Insight and Prediction
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Medical+Cost+Analysis+Insight+and+Prediction)
-
 An end-to-end data science project analyzing medical insurance costs and building predictive models to estimate charges based on demographic and lifestyle factors.
 
 ## 📌 Project Overview
